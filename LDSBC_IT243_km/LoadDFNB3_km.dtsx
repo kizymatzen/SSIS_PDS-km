@@ -12,8 +12,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="LoadDFNB3_km"
   DTS:PackageType="5"
-  DTS:VersionBuild="180"
-  DTS:VersionGUID="{68AB4B0A-927D-4E7A-99C3-F75A1DD64572}">
+  DTS:VersionBuild="181"
+  DTS:VersionGUID="{F98A19D1-2817-48B6-8149-0CBB5CC32EE4}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
